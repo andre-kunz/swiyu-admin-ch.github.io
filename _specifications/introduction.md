@@ -3,6 +3,7 @@ title: "Introduction"
 excerpt: Introduction and Overview of the Swiss Profiles
 header:
   teaser: ../assets/images/swiss-profile-introduction.jpg
+date: 2026-01-01  
 ---
 
 
