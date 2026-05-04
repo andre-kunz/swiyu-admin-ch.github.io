@@ -214,15 +214,15 @@ collections:
       - vc-visual-presentation.md
   specifications:
     order:
-      - introduction.md
-      - swiss-profile-anchor.md
-      - swiss-profile-vc.md
-      - swiss-profile-trust.md
-      - swiss-profile-issuance.md
-      - swiss-profile-verification.md
-      - swiss-profile-proximity.md
-      - oca-v1-0.md
-      - trust-protocol-v2.0.md
+      - specifications/introduction.md
+      - specifications/swiss-profile-anchor.md
+      - specifications/swiss-profile-vc.md
+      - specifications/swiss-profile-trust.md
+      - specifications/swiss-profile-issuance.md
+      - specifications/swiss-profile-verification.md
+      - specifications/swiss-profile-proximity.md
+      - specifications/oca-v1-0.md
+      - specifications/trust-protocol-v2.0.md
     output: true
     permalink: /:collection/:path/
   archive:
