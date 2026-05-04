@@ -5,6 +5,7 @@ toc_sticky: true
 excerpt: Specifications for Token Status List, SD-JWT, SD-JWT-VC, and OCA
 header:
   teaser: ../assets/images/swiss-profile-vc.jpg
+date: 2026-01-03  
 ---
 
 <div class="notice--info">
